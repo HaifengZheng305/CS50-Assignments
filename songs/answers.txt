@@ -1,0 +1,2 @@
+If the top 100 songs is from one listener from 2018, their audio aura has medium valcne, and should have a good energy and good danceability.
+I believe that we should find the average of all variables because 3 variables is can't properly represent the listeners preference.

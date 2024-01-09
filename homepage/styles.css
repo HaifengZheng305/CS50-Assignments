@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    text-align:center;
+
+  }
+  h1{
+    margin:0 auto;
+    font-size: 500%;
+    color: #66BFBF;
+    line-height: 2;
+  }
+
+  h2{
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+  }
+
+  .top-container{
+    background-color:#CFF5E7;
+    position: relative;
+    padding-top: 100px;
+  }
+
+  .middle{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+
+  }
+
+  .bottom{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+
+  }
+
+  .skill-row{
+    text-align: center;
+    width: 50%;
+    margin:100px auto 100px auto;
+    line-height: 2;
+    padding-left: 30px;
+  }
+

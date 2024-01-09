@@ -1,0 +1,17 @@
+sort1 uses: bubble sort
+
+How do you know?:
+
+shortest sort time when the list is sorted even though it as fast as selection sort when the list is not
+
+sort2 uses: merge sort
+
+How do you know?:
+
+consistent short sort time in all the files
+
+sort3 uses: selection sort
+
+How do you know?:
+
+longest sort time even though when it is sorted
